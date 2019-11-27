@@ -1,2 +1,2 @@
-# TheScarnManagerAPI
-A .NET Core API built for the The Scarn Manager application.
+# Project Hercules - API
+A .NET Core API built for the Project Hercules application.
